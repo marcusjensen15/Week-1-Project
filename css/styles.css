@@ -1,4 +1,26 @@
+* {
+
+  background-color: tan;
+
+}
+
+
+
+
 .jumbotron {
+
+  text-align: center;
+
+}
+
+.title-header {
+
+  text-align: center;
+  font-size: 35px;
+
+}
+
+h3 {
 
   text-align: center;
 
