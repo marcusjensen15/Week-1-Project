@@ -15,6 +15,8 @@ _Basic website about me and my: Work Experience, Skills, Interests, Prior Code P
 * _Open index.html file in browser to see live site_
 * _Open index.html and/or styles.css in text editor to edit project_
 
+* _Can also see: https://marcusjensen15.github.io/Week-1-Project/ for shareable link_
+
 
 
 ## Known Bugs
