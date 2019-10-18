@@ -4,6 +4,8 @@
 
 .jumbotron {
   text-align: center;
+  /* position: absolute;  */
+  /* margin-top: 200px; */
 }
 
 .title-header {
@@ -19,7 +21,10 @@ h3 {
   text-align: center;
 }
 
-.col-md-6{
+
+
+
+/* .col-md-6{
   overflow:scroll;
 
-}
+} */
