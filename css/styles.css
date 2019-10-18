@@ -4,6 +4,7 @@
 
 .jumbotron {
   text-align: center;
+  clear: both
   /* position: absolute;  */
   /* margin-top: 200px; */
 }
@@ -21,6 +22,10 @@ h3 {
   text-align: center;
 }
 
+.education {
+  font-weight: bold;
+
+}
 
 
 
