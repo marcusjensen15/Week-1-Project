@@ -35,4 +35,4 @@ _HTML, CSS, Javascript_
 
 *MIT License*
 
-Copyright (c) 2016 **_Marcus Jensen, Epicodus_**
+Copyright (c) 2016 **_Marcus Jensen, Epicodus inc_**
